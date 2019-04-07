@@ -6,6 +6,9 @@ The SPAGI Projects GitHub organisation is designed to house all the projects bei
 
 Individual repositories should be created per project or item that is being worked on. Issues can be created in each repository to show what is currently being worked on. In each repository, a feature branch should be created and committed to until the feature is complete and it can be merged back to the master branch.
 
+### Issues
+Issues can be used to track what is being worked on in each of the projects. They are an opportunity to make comment on projects, make some suggestions or ask others for help. This can work as a task management/goal setting system, with people being assigned certain issues, or attaching tags to help categorise the issues. 
+
 ## Usage from RStudio
 
 The workflow for working in RStudio requires you to first create a new repository from the organisation and then create a new project from version control in the RStudio GUI. This will prompt you to provide a url from GitHub or another remote, which can be found at the top right of the repository. 
